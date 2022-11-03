@@ -1,7 +1,10 @@
 [package]
 name = "handy-dandy-macros"
+description = "A collection of some handy dandy macros."
 version = "0.1.0"
 edition = "2021"
+authors = ["Jesper Hasselquist <jesper.hasselquist@pm.me>"]
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
